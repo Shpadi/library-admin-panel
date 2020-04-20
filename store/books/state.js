@@ -1,5 +1,6 @@
 export default () => {
   return {
-    counter: 200
+    books: [],
+    currentBook: null,
   }
 }
